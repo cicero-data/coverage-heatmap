@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3618440a8961b12123e3a350e3cfc7f7",
+    "revision": "54175ef0628538c3b8bcf415ff77be12",
     "url": "/coverage-heatmap/index.html"
   },
   {
